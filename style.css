@@ -1,0 +1,27 @@
+html, body {
+    align-content: rtl;
+    direction: rtl;
+    @import url('https://fonts.googleapis.com/css?family=Alef&display=swap');
+    font-family: 'Alef', sans-serif;
+}
+
+.header {
+    background-image: url('images/zen-stones-by-water.jpg');
+}
+
+.portrait {
+    display: block;
+    max-width:500px;
+    max-height:200px;
+    width: auto;
+    height: auto;
+    box-shadow: 0 0 25px 25px white inset;
+}
+
+/* .title { */
+/*     font-size: 8em; */
+/* } */
+
+/* .subtitle { */
+/*     font-size: 6em; */
+/* } */
